@@ -1553,7 +1553,7 @@ number:
     address: 44001
     value_type: U_WORD
     unit_of_measurement: "%"
-    min_value: 12
+    min_value: 11
     max_value: 30
     multiply: 10
     skip_updates: 6 # 30 seconds
